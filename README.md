@@ -77,7 +77,7 @@
 ---
 
 ## **📜 Publications**  
-1. **"Optimization of Transatmospheric Flight Using Pontryagin’s Principle"** (Samara University Aerospace Journal, 2018).  
+1. **"Optimization of Transatmospheric Flight Using Pontryagin’s Principle"** (Samara University Aerospace Journal, 2020).  
 
 ---
 
